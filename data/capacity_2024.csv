@@ -1,0 +1,35 @@
+# FUENTE: PRODESEN 2024-2038 (SENER) + CFE Estadísticas 2024
+# Nuclear: Laguna Verde 1,610 MW (SIN)
+# Geotermia: Cerro Prieto 570 MW (BCS) + 38 MW (SIN)
+# Cogeneración: estimado industria nacional
+sistema,tecnologia,capacidad_mw,costo_var_usd_mwh,tipo
+BCS,Geotermia,570,8,baseload
+BCS,CCGT_Gas,316,45,termica
+BCS,Fuel_Oil,186,100,termica
+BCS,Turbogas,85,120,termica
+BCS,Diesel_Peaker,120,150,termica
+BCS,Solar,68,2,renovable
+BCS,Eolica,15,2,renovable
+BCS,Hidro,0,5,hidro
+BCS,Bateria,20,1,almacenamiento
+BCA,CCGT_Gas,1850,45,termica
+BCA,Cogeneracion,320,40,termica
+BCA,Fuel_Oil,380,100,termica
+BCA,Turbogas,150,120,termica
+BCA,Diesel_Peaker,420,150,termica
+BCA,Solar,320,2,renovable
+BCA,Eolica,186,2,renovable
+BCA,Hidro,0,5,hidro
+BCA,Bateria,30,1,almacenamiento
+SIN,Nuclear,1610,15,baseload
+SIN,Geotermia,38,8,baseload
+SIN,Carbon,5150,60,termica
+SIN,CCGT_Gas,28540,45,termica
+SIN,Cogeneracion,3200,40,termica
+SIN,Fuel_Oil,4820,100,termica
+SIN,Turbogas,2800,120,termica
+SIN,Diesel_Peaker,2100,150,termica
+SIN,Hidro,12500,5,hidro
+SIN,Solar,8640,2,renovable
+SIN,Eolica,7560,2,renovable
+SIN,Bateria,200,1,almacenamiento

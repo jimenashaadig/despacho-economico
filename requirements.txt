@@ -1,0 +1,11 @@
+pypsa==0.26.2
+linopy>=0.3.0
+highspy>=1.5.0
+pandas>=1.5.0
+numpy>=1.23.0
+requests>=2.28.0
+httpx>=0.24.0
+plotly>=5.13.0
+streamlit>=1.28.0
+pytz>=2023.3
+pytest>=7.2.0
